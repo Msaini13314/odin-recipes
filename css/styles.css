@@ -1,0 +1,45 @@
+#main-header{
+    border: 2px dashed blue;
+    color: Red;
+    width: max-content;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+body {
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+.links{
+    border: 2px dotted red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+.links a{
+    padding:8px;
+    font-size: 30px;
+    color: blue;
+    text-decoration: none;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+.recipe-main{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.recipe-main h1,h2{
+    text-align: center;
+}
+
+.desc, .lists{
+    color: brown;
+}
+
+.lists {
+    background-color: azure;
+}
